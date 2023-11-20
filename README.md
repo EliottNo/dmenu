@@ -8,3 +8,4 @@ patches applied:
 - [border](https://tools.suckless.org/dmenu/patches/border/)
 - [center](https://tools.suckless.org/dmenu/patches/center/)
 - [highlight](https://tools.suckless.org/dmenu/patches/highlight/)
+- [numbers](https://tools.suckless.org/dmenu/patches/numbers/)
